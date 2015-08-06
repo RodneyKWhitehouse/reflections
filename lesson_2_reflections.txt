@@ -1,4 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-You need to create a repository before you can put anything in it.
+	You need to create a repository before you can put anything in it.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It allows you a scratch pad to set everything up correctly before committing.
+	
