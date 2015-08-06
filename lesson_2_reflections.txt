@@ -22,3 +22,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	We non-destructively make one branch out of the changes in two.
 	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	It handles the easy stuff for you and saves a lot of time. It also highlight conflicts
+	which also saves time. It always saves you time, so I don't see a downside, unless it screws up.
+	
