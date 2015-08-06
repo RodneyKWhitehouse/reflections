@@ -6,3 +6,4 @@ How is the staging area different from the working directory and the repository?
 
 	It allows you a scratch pad to set everything up correctly before committing.
 	
+	
