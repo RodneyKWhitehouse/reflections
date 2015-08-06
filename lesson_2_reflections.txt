@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 	How else could you keep track of it in your head.
 	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	We non-destructively make one branch out of the changes in two.
+	
